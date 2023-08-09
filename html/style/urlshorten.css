@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div{
+    background-color: aqua;
+    height: 120vh;
+    width: 100%;
+    color: black;
+}
+
+form{
+    color: blue;
+}
+
+button{
+    border: none;
+    color: red;
+}
